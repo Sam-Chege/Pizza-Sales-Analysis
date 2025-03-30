@@ -37,7 +37,7 @@ Excel / SQL (if applicable) for data sourcing
 
 🚀 How to Use >> 
 
-Open the Power BI (.pbix) file
+Open the Power BI https://github.com/Sam-Chege/Pizza-Sales-Analysis/blob/main/Pizza%20Sales.pbix file
 
 Interact with filters (date, pizza category)
 
