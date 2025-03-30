@@ -1,6 +1,10 @@
 # Pizza-Sales-Analysis Dashboard
 https://github.com/Sam-Chege/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Dashboard.png
 
+Download the PowerBI file here
+
+ https://github.com/Sam-Chege/Pizza-Sales-Analysis/blob/main/Pizza%20Sales.pbix file
+
 
 🍕 Pizza Sales Dashboard
 📊 Power BI Dashboard for Pizza Sales Analysis
