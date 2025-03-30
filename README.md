@@ -8,9 +8,13 @@ https://github.com/Sam-Chege/Pizza-Sales-Analysis/blob/main/Pizza%20Sales%20Dash
 
 📌 Overview
 This interactive Power BI dashboard provides insights into pizza sales trends, revenue, and customer behavior. It helps businesses understand: >>
+
 ✅ Best and worst-selling pizzas
+
 ✅ Peak sales days and months
+
 ✅ Sales breakdown by category and size
+
 ✅ Revenue trends and order patterns
 
 🔍 Key Insights >> 
