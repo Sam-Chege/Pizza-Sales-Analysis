@@ -18,19 +18,29 @@ This interactive Power BI dashboard provides insights into pizza sales trends, r
 ✅ Revenue trends and order patterns
 
 🔍 Key Insights >> 
+
 Friday has the highest total orders 📈
+
 Classic pizzas generate the most revenue 🍕
+
 Large pizzas are the best-selling size 🍽️
+
 Sales peak in July and January
 
 🛠 Tools Used >> 
+
 Power BI for visualization
+
 DAX & Power Query for data transformation
+
 Excel / SQL (if applicable) for data sourcing
 
 🚀 How to Use >> 
+
 Open the Power BI (.pbix) file
+
 Interact with filters (date, pizza category)
+
 Analyze key performance metrics
 
 
